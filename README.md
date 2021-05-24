@@ -22,10 +22,10 @@ Build an app to assist an individual with a non-specific disability to travel on
   * Frequently visited or favorite places 
 
   * Umbrella Disability groupings (VI for visual impairment, ID for intellectual disability etc.) 
-   * * NOTE: No specific disabling conditions for the sake of medical confidentiality but can include umbrella terms 
+   ** NOTE: No specific disabling conditions for the sake of medical confidentiality.
 
   * Medication information 
-   * * NOTE: does not need to include exact medications but can include medication families (Anticonvulsants etc.) and form (Capsules etc.)
+   ** NOTE: does not need to include exact medications, use medication families instead (Anticonvulsants etc.) and medication form (Capsules etc.)
 
   * Certain medications may require certain considerations (injections cannot typically be taken in a public setting outside of a crisis-situation, for example) 
 

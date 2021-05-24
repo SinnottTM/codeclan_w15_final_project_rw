@@ -19,8 +19,6 @@ Build an app to assist an individual with a non-specific disability to travel on
 
   * Home Address 
 
-  * Occupation 
-
   * Frequently visited or favorite places 
 
   * No disabling conditions/ for the sake of medical confidentiality but can include umbrella (VI for visual impairment, ID for intellectual disability etc.) 

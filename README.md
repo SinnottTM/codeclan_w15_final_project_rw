@@ -59,7 +59,7 @@ Build an app to assist an individual with a non-specific disability to travel on
 
 * Certain medications may require certain considerations (injections should not typically be taken in a public setting outside of a crisis-situation, for example), this may affect how certain users can intereact with certain businesses
 
-* Users being able to post reviews may be far more important than designers feelings on what will be most practical for individuals with disabilities. Remember, users here will have far more direct experience in navigating their world than we will so their input/feedback is very important 
+* Users here will have far more direct experience in navigating their world than we will so their input/feedback is very important 
 
 ----------------------------------------------------------------------------- 
 

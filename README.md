@@ -1,6 +1,6 @@
 # Brief - App for supporting travel for individuals with disabilities 
 
-Build an app to assist an individual with a non-specific disability to travel on public transport. This can be specific to Edinburgh or Scotland.
+Build an app to assist an individual with a non-specific disability to travel on public transport. This can be specific to Edinburgh or Scotland
 
 -----------------------------------------------------------------------------
 
@@ -22,25 +22,25 @@ Build an app to assist an individual with a non-specific disability to travel on
   * Frequently visited or favorite places 
 
   * Umbrella Disability groupings (VI for visual impairment, ID for intellectual disability etc.) 
-    * NOTE: No specific disabling conditions for the sake of medical confidentiality.
+    * NOTE: No specific disabling conditions for the sake of medical confidentiality
 
   * Medication information 
     * NOTE: does not need to include exact medications, use medication families instead (Anticonvulsants etc.) and medication form (Capsules etc.)
 
-  * Certain medications may require certain considerations (injections cannot typically be taken in a public setting outside of a crisis-situation, for example) 
-
 * Basic map of Edinburgh/Scotland
 
-* Search bar for map (coffee shops, libraries etc.) 
+* Search bar for map (Exact business names) 
 
 * Allow users to highlight and save route of particular importance to them (workplace/family address etc.) 
 
 
 -----------------------------------------------------------------------------  
 
-## Extensions  
+## Possible Extensions  
 
-* Basic travel route calculator around Edinburgh/Scotland 
+* Basic travel route calculator around Edinburgh/Scotland
+
+* Advanced Search bar for map (Business types, coffee shop etc.) 
 
 * Abilities to leave reviews (with scores?) on premises and services for accessibility, professionality of staff etc. 
 
@@ -48,10 +48,22 @@ Build an app to assist an individual with a non-specific disability to travel on
 
 * Profile section, ability to connect with other users 
 
-* Anything else the group feels would be worthwhile 
+* Anything else the group feels would be worthwhile
 ----------------------------------------------------------------------------- 
 
-### Stack Options for building (languages and applications): 
+## Factors to consider 
+
+* Multiple personas will need to be considered (not all disabling conditions are the same)
+
+* App may need to strike a balance between ease of use and scope of functionality (ease of use should always win)
+
+* Certain medications may require certain considerations (injections should not typically be taken in a public setting outside of a crisis-situation, for example), this may affect how certain users can intereact with certain businesses
+
+* Users being able to post reviews may be far more important than designers feelings on what will be most practical for individuals with disabilities. Remember, users here will have far more direct experience in navigating their world than we will so their input/feedback is very important 
+
+----------------------------------------------------------------------------- 
+
+### Suggested Stack Options for building: 
 
   *React
 
@@ -65,7 +77,9 @@ Build an app to assist an individual with a non-specific disability to travel on
   
 ----------------------------------------------------------------------------- 
 
-#### As Nido Qubein said: 
+### Quote to consider: 
+
+#### As Nido Qubein said 
 
 > "Your present circumstances don't determine where you can go; they merely determine where you start." 
 

@@ -2,7 +2,11 @@
 
 Build an app to assist an individual with a non-specific disability to travel around Edinburgh city. 
 
------------------------------------------------------------------------------ 
+-----------------------------------------------------------------------------
+
+![alt text](https://i2.wp.com/wheelchairtravel.org/wp-content/uploads/2020/06/popup-feature-1.jpg?fit=760%2C440&ssl=1 "No Limits")
+
+-----------------------------------------------------------------------------
 
 
 ## MVP: 
@@ -47,20 +51,21 @@ Build an app to assist an individual with a non-specific disability to travel ar
 * Anything else the group feels would be worthwhile 
 ----------------------------------------------------------------------------- 
 
-### Options for building (languages and applications): 
+### Stack Options for building (languages and applications): 
 
-  *React* 
+  *React
 
-  *Vue* 
+  *Vue 
 
-  *Spring Boot* 
+  *Spring
 
-  *MongoDB*
+  *MongoDB
   
-  *Teams choice*
+  *Teams choice
+  
 ----------------------------------------------------------------------------- 
 
-#### Nido Qubein: 
+#### As Nido Qubein said: 
 
 > "Your present circumstances don't determine where you can go; they merely determine where you start." 
 

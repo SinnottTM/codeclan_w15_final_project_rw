@@ -71,11 +71,11 @@ Build an app to assist an individual with a non-specific disability to travel on
 
 * https://www.waze.com/en-GB/
      
-      * NOTE: For routing etc.
+      * NOTE: For route management etc.
 
 * https://www.dugswelcome.com/dug-app/
 
-      * NOTE: For reviews of pubs
+      * NOTE: For reviews of businesses and suitability under pre-set conditions
 
 ----------------------------------------------------------------------------- 
 

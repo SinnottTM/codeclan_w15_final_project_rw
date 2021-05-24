@@ -62,6 +62,22 @@ Build an app to assist an individual with a non-specific disability to travel on
 * Users here will have far more direct experience in navigating their world than we will so their input/feedback is very important 
 
 ----------------------------------------------------------------------------- 
+## Inspirations
+
+* https://www.euansguide.com/
+
+      * NOTE: For social aspect etc.
+
+
+* https://www.waze.com/en-GB/
+     
+      * NOTE: For routing etc.
+
+* https://www.dugswelcome.com/dug-app/
+
+      * NOTE: For reviews of pubs
+
+----------------------------------------------------------------------------- 
 
 ### Suggested Stack Options for building: 
 

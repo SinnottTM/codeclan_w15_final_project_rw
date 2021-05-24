@@ -25,7 +25,7 @@ Build an app to assist an individual with a non-specific disability to travel on
     * NOTE: No specific disabling conditions for the sake of medical confidentiality
 
   * Medication information 
-    * NOTE: does not need to include exact medications, use medication families instead (Anticonvulsants etc.) and medication form (Capsules etc.)
+    * NOTE: does not need to include exact medications, use medication purpose families instead (Anticonvulsants etc.) and medication form (Capsules etc.)
 
 * Basic map of Edinburgh/Scotland
 

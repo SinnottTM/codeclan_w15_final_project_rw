@@ -24,29 +24,26 @@ Build an app to assist an individual with a non-specific disability to travel on
   * Umbrella Disability groupings (VI for visual impairment, ID for intellectual disability etc.) 
     * NOTE: No specific disabling conditions for the sake of medical confidentiality
 
-  * Medication information 
-    * NOTE: does not need to include exact medications, use medication purpose families instead (Anticonvulsants etc.) and medication form (Capsules etc.)
-
 * Basic map of Edinburgh/Scotland
 
 * Search bar for map (Exact business names) 
 
-* Allow users to highlight and save route of particular importance to them (workplace/family address etc.) 
+* Allow users to locate and rate locations within the map area 
 
 
 -----------------------------------------------------------------------------  
 
 ## Possible Extensions  
 
-* Basic travel route calculator around Edinburgh/Scotland
-
 * Advanced Search bar for map (Business types, coffee shop etc.) 
 
 * Abilities to leave reviews (with scores?) on premises and services for accessibility, professionality of staff etc. 
 
-* Route tagging based on considerations (wheelchair access, light level for VI issues etc) 
+* Location tagging based on considerations (wheelchair access, light level for VI issues etc) 
 
-* Profile section, ability to connect with other users 
+* Profile section, ability to connect with other users
+
+* Basic travel route calculator around Edinburgh/Scotland
 
 * Anything else the group feels would be worthwhile
 ----------------------------------------------------------------------------- 
@@ -68,7 +65,6 @@ Build an app to assist an individual with a non-specific disability to travel on
 
       * NOTE: For social aspect etc.
 
-
 * https://www.waze.com/en-GB/
      
       * NOTE: For route management etc.
@@ -83,9 +79,9 @@ Build an app to assist an individual with a non-specific disability to travel on
 
   *React
 
-  *Vue 
-
   *Spring
+  
+  *Vue 
 
   *MongoDB
   

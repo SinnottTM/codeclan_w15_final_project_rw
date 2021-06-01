@@ -1,6 +1,6 @@
 # Brief - App for supporting travel for individuals with disabilities 
 
-Build an app to assist an individual with a non-specific disability to travel on public transport. This can be specific to Edinburgh or Scotland
+Build an app to assist an individual with a non-specific disability to travel on public transport. This is specific to Edinburgh.
 
 -----------------------------------------------------------------------------
 
@@ -19,17 +19,16 @@ Build an app to assist an individual with a non-specific disability to travel on
 
   * Home Address 
 
-  * Frequently visited or favorite places 
-
   * Umbrella Disability groupings (VI for visual impairment, ID for intellectual disability etc.) 
     * NOTE: No specific disabling conditions for the sake of medical confidentiality
 
 * Basic map of Edinburgh/Scotland
 
-* Search bar for map (Exact business names) 
+* Search bar for map (Exact business names)
 
-* Allow users to locate and rate locations within the map area 
+* Database of locations within Edinburgh 
 
+* Allow users to locate and rate via 5 point ratings on 5 key metric for locations within the map area 
 
 -----------------------------------------------------------------------------  
 
@@ -53,8 +52,6 @@ Build an app to assist an individual with a non-specific disability to travel on
 * Multiple personas will need to be considered (not all disabling conditions are the same)
 
 * App may need to strike a balance between ease of use and scope of functionality (ease of use should always win)
-
-* Certain medications may require certain considerations (injections should not typically be taken in a public setting outside of a crisis-situation, for example), this may affect how certain users can intereact with certain businesses
 
 * Users here will have far more direct experience in navigating their world than we will so their input/feedback is very important 
 

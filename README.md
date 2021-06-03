@@ -17,7 +17,7 @@ Build an app to assist an individual with a non-specific disability to travel on
 
   * DoB 
 
-  * Home Address 
+  * Home Address (long & lat)
 
   * Umbrella Disability groupings (VI for visual impairment, ID for intellectual disability etc.) 
     * NOTE: No specific disabling conditions for the sake of medical confidentiality
@@ -26,7 +26,7 @@ Build an app to assist an individual with a non-specific disability to travel on
 
 * Search bar for map (Exact business names)
 
-* Database of locations within Edinburgh 
+* Database of locations within Edinburgh (long & lat)
 
 * Allow users to locate and rate via 5 point ratings on 5 key metric for locations within the map area 
 
